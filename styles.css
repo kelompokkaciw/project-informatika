@@ -1,0 +1,13 @@
+/* Place your CSS styles in this file */
+body{background-color:palevioletred;
+border:5px solid white;
+border-radius:15px;}
+
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+p{font-size:30px;
+color:purple;}
